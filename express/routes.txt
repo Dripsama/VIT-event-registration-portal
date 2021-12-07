@@ -1,0 +1,15 @@
+// get
+all events - /events
+all users - /users
+all user_register - /user_register
+registered events for user - /user/events
+events by association - /association/events
+users registered for event - /register/events
+
+
+//post
+add user_register - /adduser_register
+add user - /adduser
+add events - /addevent
+
+//uuid
